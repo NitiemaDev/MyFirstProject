@@ -6,7 +6,18 @@ h1{
 p{
     font-size: 18px;
     text-align: center;
-    padding: 20px;
-    background-color: cadetblue;
-    color: #fff;
+    color: #000;
+    line-height: 1.4rem;
+
+}
+
+div{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    display: none;
+}
+
+div p{
+    color: green;
 }
